@@ -6,8 +6,13 @@
 It's a basic login and registration system, where if the user is not registered it is necessary to register in order to be able to login. Shows a screen showing some information if the person who is registering does not fill in all fields.
 
 ## Layout 
-![Layout App]() 
+![Layout App](https://github.com/eduardoaoc/register-system/blob/main/assets/login.PNG) 
 
+![Layout App](https://github.com/eduardoaoc/register-system/blob/main/assets/enter_success.PNG)
+
+![Layout App](https://github.com/eduardoaoc/register-system/blob/main/assets/register.PNG)
+
+![Layout App](https://github.com/eduardoaoc/register-system/blob/main/assets/registred.PNG)
 
 # Technology used
 
