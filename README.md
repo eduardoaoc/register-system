@@ -8,12 +8,6 @@ It's a basic login and registration system, where if the user is not registered 
 ## Layout 
 ![Layout App]() 
 
-![Layout App]() 
-
-![Layout App]() 
-
-![Layout App]() 
-
 
 # Technology used
 

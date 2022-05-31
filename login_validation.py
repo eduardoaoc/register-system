@@ -1,4 +1,4 @@
-from genericpath import exists
+
 import sqlite3
 from PyQt5 import  uic,QtWidgets
 import PyQt5
